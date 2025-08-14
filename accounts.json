@@ -1,0 +1,68 @@
+[
+  {
+    "phone_number": "+447984599036",
+    "session_name": "sessions/session_447984599036",
+    "is_active": false,
+    "added_timestamp": "2025-08-13T22:48:20.000000"
+  },
+  {
+    "phone_number": "+8801342547247",
+    "session_name": "sessions/session_8801342547247",
+    "is_active": false,
+    "added_timestamp": "2025-08-14T09:13:38.525201"
+  },
+  {
+    "phone_number": "+8801997689229",
+    "session_name": "sessions/session_8801997689229",
+    "is_active": false,
+    "added_timestamp": "2025-08-14T09:16:05.869502"
+  },
+  {
+    "phone_number": "+8801704324173",
+    "session_name": "sessions/session_8801704324173",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T09:40:34.968926"
+  },
+  {
+    "phone_number": "+8801618659235",
+    "session_name": "sessions/session_8801618659235",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T09:54:52.575618"
+  },
+  {
+    "phone_number": "+8801759001765",
+    "session_name": "sessions/session_8801759001765",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T10:22:47.456799"
+  },
+  {
+    "phone_number": "+8801340476315",
+    "session_name": "sessions/session_8801340476315",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T10:23:42.136013"
+  },
+  {
+    "phone_number": "+8801798721694",
+    "session_name": "sessions/session_8801798721694",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T11:22:37.352915"
+  },
+  {
+    "phone_number": "+8801973074599",
+    "session_name": "sessions/session_8801973074599",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T11:23:58.614599"
+  },
+  {
+    "phone_number": "+8801991772684",
+    "session_name": "sessions/session_8801991772684",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T11:25:12.356224"
+  },
+  {
+    "phone_number": "+8801718471885",
+    "session_name": "sessions/session_8801718471885",
+    "is_active": true,
+    "added_timestamp": "2025-08-14T11:26:29.990880"
+  }
+]
